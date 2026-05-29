@@ -53,17 +53,11 @@ A unified platform was required to simplify these experiences and create an enga
 
 - Laravel Passport
 
-### File Storage
-
-- AWS S3
 
 ### Analytics
 
 - Google Analytics
 
-### Content Moderation
-
-- SightEngine
 
 ### Testing Tools
 
