@@ -51,7 +51,7 @@ A unified platform was required to simplify these experiences and create an enga
 
 ### Authentication
 
-- Laravel Passport
+- Email Authentication 
 
 
 ### Analytics
