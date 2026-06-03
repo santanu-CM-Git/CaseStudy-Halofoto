@@ -70,6 +70,9 @@ A unified platform was required to simplify these experiences and create an enga
 - Jest
 - Detox
 
+#### Server
+- GoDaddy VPS
+
 ---
 
 ## Client
